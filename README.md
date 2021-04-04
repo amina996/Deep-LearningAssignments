@@ -1,6 +1,6 @@
-# Deep-LearningAssignments
-AI-Quater2-Deep learning
-# This assignment is consist of 5 mini assignments in which:
+# AI-Quater2-Deeplearning-Assignments
+
+This assignment is consist of 5 mini assignments in which:
 
 2 Assignments For Binary Classification  
  
